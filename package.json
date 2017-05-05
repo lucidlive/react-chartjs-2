@@ -41,7 +41,7 @@
     "sinon": "^1.17.6"
   },
   "peerDependencies": {
-    "chart.js": "^2.3",
+    "chartjs-internal": "^2.5.0",
     "react": "^0.14 || ^15.0.0-rc || ^15.0",
     "react-dom": "^0.14 || ^15.0.0-rc || ^15.0"
   },
